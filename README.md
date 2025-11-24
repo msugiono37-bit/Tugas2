@@ -4,7 +4,8 @@ saya menambahkan fitur abcd
 2 Deadline 24 November 2025
 
 
-### Update dari anggota kelompok 2
-Saya menambahkan dokumentasi untuk meningkatkan kejelasan proyek.
+### Update dari anggota kelompok digitalkonten
+kak, Saya menambahkan dokumentasi tambahan untuk kejelasan
+
 
 
